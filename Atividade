@@ -20,14 +20,14 @@ System.out.println ("a é equivalente a 90")
        
 
 If (b=38) {
-  System.out.println ("a é equivalente b 38");
+  System.out.println ("b é equivalente b 38");
  }else If (b==38){
-  System.out.println ("a é equivalente b 89");
+  System.out.println ("b é equivalente b 89");
   }else If (b==89){
-  System.out.println ("a é equivalente b 112")
-  }else If (a==112){
-System.out.println ("a é equivalente b 90")
-  }else If (a==90){
+  System.out.println ("b é equivalente b 112")
+  }else If (b==112){
+System.out.println ("b é equivalente b 90")
+  }else If (b==90){
 
         
 }else{
