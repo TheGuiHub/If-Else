@@ -1,0 +1,41 @@
+packpage if_else
+
+@public class If_Else {
+
+Public Static Void Main (String [ ] args) {
+int a = 12;
+
+If (a=27) {
+  System.out.println ("a é equivalente a 27");
+ }else If (a==27){
+  System.out.println ("a é equivalente a 40");
+  }else If (a==40){
+  System.out.println ("a é equivalente a 70")
+  }else If (a==70){
+System.out.println ("a é equivalente a 90")
+  }else If (a==90){
+  
+}else{
+   System.out.println ("a  pode ser equivalente a 27,40,70 e 90")
+       
+
+If (b=38) {
+  System.out.println ("a é equivalente b 38");
+ }else If (b==38){
+  System.out.println ("a é equivalente b 89");
+  }else If (b==89){
+  System.out.println ("a é equivalente b 112")
+  }else If (a==112){
+System.out.println ("a é equivalente b 90")
+  }else If (a==90){
+
+        
+}else{
+   System.out.println ("a  pode ser equivalente a 38,89,112 e 90")
+       
+
+           }
+ 
+      }
+}
+
